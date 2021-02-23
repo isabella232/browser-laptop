@@ -1,10 +1,1 @@
-<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-  <style>
-    .st0{fill:#ff5000}
-  </style>
-  <path class="st0" d="M12 10.2V2.8L1.3 21.2l6.4-3.7z"/>
-  <path fill="#9e1f63" d="M12 10.2V2.8l10.7 18.4-6.4-3.7z"/>
-  <path fill="#662d91" d="M1.3 21.2l6.4-3.7h8.6l6.4 3.7z"/>
-  <path fill="#fff" d="M7.7 17.5l4.3-7.3 4.3 7.3z"/>
-  <path class="st0" d="M16.4 17.6H7.6L12 10l4.4 7.6zm-8.5-.2h8.2l-4.1-7-4.1 7z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" viewBox="0 0 24 24"><style>.st0{fill:#ff5000}</style><path d="M12 10.2V2.8L1.3 21.2l6.4-3.7z" class="st0"/><path fill="#9e1f63" d="M12 10.2V2.8l10.7 18.4-6.4-3.7z"/><path fill="#662d91" d="M1.3 21.2l6.4-3.7h8.6l6.4 3.7z"/><path fill="#fff" d="M7.7 17.5l4.3-7.3 4.3 7.3z"/><path d="M16.4 17.6H7.6L12 10l4.4 7.6zm-8.5-.2h8.2l-4.1-7-4.1 7z" class="st0"/></svg>
